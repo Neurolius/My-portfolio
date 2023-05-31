@@ -11,7 +11,7 @@
     добраться до сыра.
 </div>
 <div class='img_mouse'>
-    <img src="./src/routes/about/img/mouse_and_cheese.bmp" alt="мышь_в_лабиринте" width="1000px">
+    <img src="/img/mouse.bmp" alt="мышь_в_лабиринте" width="1000px">
 </div>
 <div class="main_info">
 <br>
