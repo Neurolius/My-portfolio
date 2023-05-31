@@ -26,8 +26,10 @@
 <style>
     .container {
         margin: 50px auto;
-        max-width: 800px;
+        width: 100%;
+
         padding: 0 20px;
+        background-color: bisque;
     }
 
     .apps {
@@ -36,9 +38,9 @@
         grid-gap: 20px;
     }
     .app {
-        border: 1px solid #ddd;
+        border: 1px solid #d15050;
         padding: 10px;
-        box-shadow: 0 0 10px #eee;
+        box-shadow: 0 0 10px #352d2d;
     }
 
     .link {

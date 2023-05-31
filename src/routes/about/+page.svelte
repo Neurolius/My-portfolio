@@ -1,4 +1,4 @@
-
+<div class='body'>
 <h1 class="main_head">Привет! На этой странице вы сможете поближе узнать меня!</h1>
 
 
@@ -21,8 +21,11 @@
 <br>
 Кроме того, я изучаю еще и Python.
 </div>
-
+</div>
 <style>
+    .body{
+        background-color:lightgreen;
+    }
     .img_mouse{
         display: flex;
         justify-content: center;

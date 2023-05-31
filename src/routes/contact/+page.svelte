@@ -11,6 +11,9 @@
 <style>
     .main{
         margin-left: 150px;
+        max-width: 512px;
+
+        background-color: bisque;
     }
 .link{
     color:blue;
