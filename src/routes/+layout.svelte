@@ -28,7 +28,7 @@
     ];
 </script>
 
-<nav>
+<nav class='header'>
     <div class="nav-container">
         <a href="/" class="nav-logo" title="Back to Homepage">Сафонов Евгений</a>
         <div class="nav-links">
@@ -41,11 +41,14 @@
     </div>
 </nav>
 <div class="container">
-    <!-- Pages will be injected below -->
+    
     <slot />
 </div>
 
 <style>
+    .header{
+        background-color:rgb(230, 235, 218)
+    }
     .container {
         max-width: 1400px;
         margin: 50px auto;

@@ -1,3 +1,8 @@
-<h1>First blog</h1>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed perspiciatis veritatis voluptas, quaerat fugit id ipsa reiciendis mollitia fuga doloribus error illum vitae aspernatur, nemo necessitatibus atque cumque recusandae facilis.
-Quas dolorum odit impedit enim, voluptatem blanditiis id placeat, ducimus excepturi ipsum ipsa saepe? Quae voluptates eveniet nobis vitae placeat beatae cum iusto earum repudiandae libero. Dicta culpa eum harum.
+<h1>Первый опыт в нейросетях</h1>
+Мне всегда была интересна эта тема. И вот я решил попробовать реализовать свою нейросеть.
+Первый вариант был реализовать обучение машинки ездить по дороге. Было выбрано 
+два способо реализации: генетический алгоритм и Q-обучение. Но с машинкой у меня не вышло.
+Для ген. алгоритма слабоват пк, а про реализацию Q-обучения и нейросети я не нашел
+информацию, была только об основах Q-обучения через Q-таблицу и я его и реализовал. 
+<img src="../../../src/routes/about/img/mouse_and_cheese.bmp" 
+alt="mouse_and_cheese" width="800px">

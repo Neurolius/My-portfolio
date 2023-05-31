@@ -1,3 +1,5 @@
-<h1>Second blog</h1>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed perspiciatis veritatis voluptas, quaerat fugit id ipsa reiciendis mollitia fuga doloribus error illum vitae aspernatur, nemo necessitatibus atque cumque recusandae facilis.
-Quas dolorum odit impedit enim, voluptatem blanditiis id placeat, ducimus excepturi ipsum ipsa saepe? Quae voluptates eveniet nobis vitae placeat beatae cum iusto earum repudiandae libero. Dicta culpa eum harum.
+<h1>Обучение на проекте "Код будущего"</h1>
+Я начал обучение на данном проекте с очени 2022 года. Обучение проходило отлично.
+Задания и темы были интересно. Во время обучения я получил ценный опыт и знания. 
+И в итоге смог создать этот сайт. Но я все равно буду продолжать
+изучать не тольо HTML5, но и JavaScript и CSS, и многое связанное с frontend'ом.

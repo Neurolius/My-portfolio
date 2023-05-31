@@ -1,12 +1,12 @@
 export const routes = [
     {
       id: 1,
-      title: 'My First Blog Post',
-      body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
+      title: 'Первый опыт в нейросетях',
+      body: 'Мой первый опыт разработки нейросетей',
     },
     {
       "id": 2,
-      "title": "My Second Blog Post",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate"
+      "title": 'Обучение на проекте "Код будущего"',
+      "body": "О том как я обучался на данном проекте"
     }
   ];

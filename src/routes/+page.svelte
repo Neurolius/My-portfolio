@@ -8,13 +8,13 @@
             <div class='container info-container'>
                 <div class='info-text'>
                     <h1>
-                        <p class='animate-text-1'>Lorem ipsum dolor sit,</p>
-                        <p class='text-2'>Lorem ipsum dolor sit amet.</p>
+                        <p class='animate-text-1'>Добро пожаловать!</p>
+                        <p class='text-2'>Меня зовут Сафонов Евгений.</p>
                     </h1>
                 </div>
 <h2 class='subtitle'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores
-                    ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                    Представляю вам, этот сайт, на котором вы сможете узнать кто я! <br>
+                    Если интересно жмите на ссылку ниже
                 </h2>
                 <div style='color:black' class='scroll-button animate-scroll' tabindex='0'>
                     <a href='/about'>Click Here</a>
@@ -28,6 +28,7 @@
 <div class='background-div'></div>
 
 <style>
+
     .info {
         text-align: center;
         position: relative;
@@ -64,7 +65,7 @@
         margin-top: 0.50rem;
     }
 .background-div {
-        background-color: #ecebe8;
+        background-color: #99B5D6;
         width: 100%;
         height: 56vh;
         margin: -205px auto;
